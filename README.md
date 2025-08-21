@@ -1,5 +1,5 @@
-# GASP: A Gradient-Aware Shortest Path Algorithm for Boundary-Confined Visualization of 3D Reeb Graphs
-# TopoInVis Submission 1008
+# GASP: A Gradient-Aware Shortest Path Algorithm for Boundary-Confined of 2-Manifold Reeb Graph Visualization
+
 
 ## Description
 This project generates Reeb graphs for 3D models using axis aligned height and geodesic distance functions computed from the most spatially extreme point functions, offering two approaches: Boundary and Interior.
