@@ -1,4 +1,4 @@
-# GASP: A Gradient-Aware Shortest Path Algorithm for Boundary-Confined of 2-Manifold Reeb Graph Visualization
+# GASP: A Gradient-Aware Shortest Path Algorithm for Boundary-Confined 2-Manifold Reeb Graph Visualization
 
 
 ## Description
